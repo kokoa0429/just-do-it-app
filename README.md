@@ -1,1 +1,2 @@
-just-do-it-app
+# just-do-it-app
+1分マウス触らなかったらJustDoItが出るやつ
